@@ -24,7 +24,7 @@ export default function Footer() {
 
         {/* Quick Links */}
         <ul className="flex items-center gap-6 text-xs font-semibold text-muted-foreground">
-          <li>
+          {/* <li>
             <a href="#about" className="hover:text-primary transition-colors">
               About
             </a>
@@ -38,7 +38,7 @@ export default function Footer() {
             <a href="#projects" className="hover:text-primary transition-colors">
               Projects
             </a>
-          </li>
+          </li> */}
           <li>
             <a href="#contact" className="hover:text-primary transition-colors">
               Contact
